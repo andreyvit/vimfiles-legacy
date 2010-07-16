@@ -145,9 +145,9 @@ endfun
 
 colorscheme koehler
 
-# set lines=55 columns=157
-# au GUIEnter * winpos 0 0
-# au GUIEnter * set lines=60 columns=160
+" set lines=55 columns=157
+" au GUIEnter * winpos 0 0
+" au GUIEnter * set lines=60 columns=160
 
 set linespace=0
 
