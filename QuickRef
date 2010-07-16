@@ -1,0 +1,32 @@
+
+ ******************************************************************************
+ *                                                                            *
+ *           Q u i c k   r e f   f o r   m y   V i m   b i n d i n g s        *
+ *                                                                            *
+ ****************************************************************************** 
+
+
+                     NORMAL (AND INSERT) MODE KEY BINDINGS
+
+
+\d              add #ifdef block to prevent multple file inclusion
+\D              interactive version of \d
+
+\c              add block C/C++ comment
+
+F2              save (:update)
+F8              switch to paired file (.h/.cpp, .adb/.ads etc)
+
+\T              turn on tabular view
+\t              add/remove tab for the current file
+\1 .. \9        switch between tabs
+\0              switch to "*other*" tab
+\-              remove current tab and unload corresponding file
+
+
+                                   COMMANDS
+
+
+:Rename                  rename current file (both in Vim and on disk)
+:MixedToUnderscores      turn FooBar and fooBar into foo_bar
+
