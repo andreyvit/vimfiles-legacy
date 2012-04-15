@@ -7,8 +7,7 @@ set formatoptions=croqlan
 set textwidth=90
 set expandtab
 set linebreak
-set showbreak=>
-set nrformats=hex
+set nrformats=hex,alpha
 set tags=./tags,./../tags,./*/tags
 set hidden
 set statusline=2
